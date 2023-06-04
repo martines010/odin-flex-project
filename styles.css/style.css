@@ -1,3 +1,7 @@
+* {
+    box-sizing: border-box;
+}
+
 body {
     margin: 10px 70px;
 }
@@ -13,4 +17,26 @@ nav ul {
     margin: 0;
     display: flex;
     gap: 15px;
+}
+
+.header-content-container {
+    display: flex;
+    align-items: stretch;
+    border: 2px solid blue;
+}
+
+.header-content-container > div {
+    width: 50%;
+    border: 2px solid red;
+}
+
+.img-placeholder-container {
+    display: flex;
+    justify-content: center;
+}
+
+.img-placeholder {
+    border: 2px solid seagreen;
+    text-align: center;
+    align-self: center;
 }
