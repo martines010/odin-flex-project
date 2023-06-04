@@ -19,6 +19,19 @@ nav ul {
     gap: 15px;
 }
 
+nav ul li {
+    font-size: 18px;
+    color: #E5E7EB;
+}
+
+.header-logo {
+    font-weight: bold;
+    font-size: 24px;
+    color: #F9FAF8;
+}
+
+/***************header content*****************/
+
 .header-content-container {
     display: flex;
     align-items: stretch;
