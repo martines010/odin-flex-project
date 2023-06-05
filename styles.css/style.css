@@ -119,6 +119,8 @@ h3 {
     margin: 7px 0;
 }
 
+
+
 /***************Quote Section*****************/
 .quote-section {
     background-color: #E5E7EB;
@@ -147,4 +149,29 @@ p.reference {
     font-weight: bold;
     align-self: flex-end;
     margin-bottom: 0;
+}
+
+
+
+/***************Call to Action Section*****************/
+section.call-to-action {
+    padding: 100px;
+}
+
+div.action-container {
+    background-color: #3882f6;
+    padding: 40px 100px;
+    border-radius: 7px;
+    display: flex;
+    justify-content: space-between;
+}
+
+div.action-container p {
+    color: #F9FAF8;
+    margin: 0;
+}
+
+p.call-to-action {
+    font-size: 24px;
+    font-weight: bold;
 }
