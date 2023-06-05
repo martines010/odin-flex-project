@@ -86,9 +86,14 @@ p.img-placeholder
 
 
 /***************Random Information Cards*****************/
+h3 {
+    font-size: 36px;
+    font-weight: bolder;
+    text-align: center;
+    margin-top: 30px;
+}
 
 .cards-container {
-    border: 2px solid red;
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
