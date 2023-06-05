@@ -185,3 +185,18 @@ button.sign-up-reverse {
     border-radius: 7px;
     padding: 5px 23px;
 }
+
+
+
+/***************Footer*****************/
+footer {
+    background-color: #1F2937;
+    padding: 35px 0;
+    text-align: center;
+}
+
+footer p {
+    color: #E5E7EB;
+    font-size: 18px;
+    margin: 0;
+}
