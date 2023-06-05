@@ -175,3 +175,13 @@ p.call-to-action {
     font-size: 24px;
     font-weight: bold;
 }
+
+button.sign-up-reverse {
+    font-size: 18px;
+    font-weight: bold;
+    color: #F9FAF8;
+    border: 2px solid #F9FAF8;
+    background-color: #3882f6;
+    border-radius: 7px;
+    padding: 5px 23px;
+}
