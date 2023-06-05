@@ -86,6 +86,10 @@ p.img-placeholder
 
 
 /***************Random Information Cards*****************/
+section.second-section {
+    padding-bottom: 100px;
+}
+
 h3 {
     font-size: 36px;
     font-weight: bolder;
