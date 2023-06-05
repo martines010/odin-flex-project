@@ -130,3 +130,17 @@ h3 {
     justify-content: center;
     align-items: center;
 }
+
+p.quote {
+    font-size: 36px;
+    font-style: italic;
+    font-weight: 100;
+    color: gray;
+    margin: 0;
+}
+
+p.reference {
+    font-weight: bold;
+    align-self: flex-end;
+    margin-bottom: 0;
+}
