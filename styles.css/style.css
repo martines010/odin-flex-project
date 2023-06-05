@@ -73,3 +73,13 @@ p.img-placeholder
     font-size: 18px;
     color: #E5E7EB;
 }
+
+.header-btn {
+    font-size: 18px;
+    font-weight: bold;
+    color: #F9FAF8;
+    background-color: #3882f6;
+    border: 0;
+    border-radius: 7px;
+    padding: 7px 25px;
+}
