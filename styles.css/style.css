@@ -42,17 +42,16 @@ nav ul li {
 .header-content-container {
     display: flex;
     align-items: stretch;
-    border: 2px solid blue;
 }
 
 .header-content-container > div {
     width: 50%;
-    border: 2px solid red;
 }
 
 .img-placeholder-container {
     display: flex;
     justify-content: center;
+    background-color: gray;
 }
 
 .img-placeholder {
